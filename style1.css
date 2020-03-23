@@ -1,0 +1,20 @@
+/*Selector{
+	Property:value;
+}*/
+
+body{text-align: center;
+
+}
+ .btn-group-toggle{
+ 	background-color: grey;
+ }
+ .btn-secondary {
+background-color: grey;
+ }
+ .big-banner{
+	background-image: url('saif1.jpg');
+	
+}
+body{
+	text-light;
+}
